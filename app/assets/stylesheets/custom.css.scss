@@ -2,7 +2,7 @@
 
 
 .navbar {
-background-color: black  !important;
+
 }
 
 .nav-link {
@@ -11,7 +11,7 @@ background-color: black  !important;
 
 #logo{
   float: left;
-  font-size: 1.7em;
+  font-size: 1em;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: -1px;
@@ -21,6 +21,11 @@ background-color: black  !important;
 #logo:hover{
   color: #fff;
   text-decoration: none;
+}
+
+#logo1{
+  max-width: 250px;
+  height: 50px;
 }
 
 #home-container{
